@@ -1,8 +1,8 @@
 A Hyperlinked Video Player
 =================
-We had to implement a hyperlinked video player which would read meta files created by its supplementary hyperlinked 
-video authoring tool and play videos in a JFrame, also change videos when the user clicks on the rectangular hyperlink.
-It also supported audio playback.
+This hyperlinked video player reads meta files created by its supplementary hyperlinked 
+video authoring tool and plays videos in a JFrame, also changes videos when the user clicks on the rectangular hyperlink.
+It also supports audio playback.
 
 This video player thus had the following functions:
 •  Reading and interpreting meta files.
